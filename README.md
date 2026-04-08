@@ -19,7 +19,7 @@ A modern, responsive, and interactive **Calendar Web Application** built using c
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React / Next.js  
+- **Frontend:** React
 - **Language:** TypeScript / JavaScript  
 - **Styling:** Tailwind CSS / CSS Modules  
 - **Animation:** Framer Motion  
