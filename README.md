@@ -74,12 +74,6 @@ http://localhost:5173
 
 ---
 
-## 📸 Screenshots
-
-_Add your UI screenshots here_
-
----
-
 ## 🧠 Key Learnings
 
 - Handling complex UI states in React
